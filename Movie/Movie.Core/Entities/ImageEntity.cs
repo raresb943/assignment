@@ -5,6 +5,6 @@ namespace Movie.Core.Entities
         public string FilePath { get; set; }
         public int Width { get; set; }
         public int Height { get; set; }
-        public string Type { get; set; } // backdrop or poster
+        public string Type { get; set; }
     }
 }
